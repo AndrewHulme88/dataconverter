@@ -1,0 +1,34 @@
+{
+  "countries": [
+      {
+          "name": "USA",
+          "capital": "Washington, D.C.",
+          "region": "North America",
+          "population": 331002651
+      },
+      {
+          "name": "Canada",
+          "capital": "Ottawa",
+          "region": "North America",
+          "population": 37742154
+      },
+      {
+          "name": "Mexico",
+          "capital": "Mexico City",
+          "region": "North America",
+          "population": 127575529
+      },
+      {
+          "name": "Brazil",
+          "capital": "Brasília",
+          "region": "South America",
+          "population": 212559417
+      },
+      {
+          "name": "Argentina",
+          "capital": "Buenos Aires",
+          "region": "South America",
+          "population": 45195774
+      }
+  ]
+}
